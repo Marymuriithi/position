@@ -1,0 +1,59 @@
+header{
+  background-color: slategrey;
+  height: 100px;
+  display: block;
+}
+h1{
+  position: fixed;
+  color: white;
+  margin-left:700px;
+}
+div{
+  background-color: #f2d588;
+  height: 500px;
+  width-bottom:50px;
+  margin-left: 350px;
+  position:relative;
+  direction: block;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.one{
+  width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    top: -160px;
+    left: -400px;
+    background-color: #F763A1;
+    position: absolute;
+}
+
+.two {
+    width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    left: 450px;
+    position: absolute;
+    background-color: #BD36CF;
+    bottom: -105;
+}
+.three {
+    width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    top: -160px;
+    left: 450px;
+    background-color: #70C281;
+    position: absolute;
+}
+.four {
+    width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    background-color: #71a5c9;
+    position: absolute;
+    margin-bottom: 300px;
+    left: -390px;
+    bottom: -390px;
+}
